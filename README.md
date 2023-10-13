@@ -57,7 +57,7 @@ Data collected by the Smart Scarecrow, such as bird detection events and scarecr
 The Smart Scarecrow will be equipped to handle various events, such as:
 
 - Bird detection events: When a bird is detected, the scarecrow will trigger a scare tactic.
-- Scarecrow status updates: The OLED display will provide real-time feedback on the scarecrow's status.
+- Scarecrow status updates: Our ThingSpeak channel will provide real-time feedback on the scarecrow's status.
 
 ## Installation
 
