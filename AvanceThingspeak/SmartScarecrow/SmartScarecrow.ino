@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 //define variables for conection
-const char* WIFI_NAME = "MARTE - 2.4 GHZ";
-const char* WIFI_PASSWORD = "M3lqui4DeS1587";
+const char* WIFI_NAME = "nombreRed";
+const char* WIFI_PASSWORD = "contraseñaRed";
 const int myChannelNumber =2303932;
 const char* myApiKey = "YJ3G6AUML34JAYBO";
 const char* server = "api.thingspeak.com";
