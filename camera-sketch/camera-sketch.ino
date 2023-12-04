@@ -1,8 +1,8 @@
 #include <WebServer.h>
 #include <WiFi.h>
 #include <esp32cam.h>
-const char* WIFI_SSID = "Leonel -1";
-const char* WIFI_PASS = "leonel25112003";
+const char* WIFI_SSID = "A777";
+const char* WIFI_PASS = "98761234";
 WebServer server(80);
 static auto loRes = esp32cam::Resolution::find(320, 240);
 static auto midRes = esp32cam::Resolution::find(350, 530);

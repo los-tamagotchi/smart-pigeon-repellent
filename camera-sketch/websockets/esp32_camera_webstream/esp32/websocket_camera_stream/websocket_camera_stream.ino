@@ -31,8 +31,8 @@
 
 
 
-const char* ssid     = "Leonel -1"; // CHANGE HERE
-const char* password = "leonel25112003"; // CHANGE HERE
+const char* ssid     = "A777"; // CHANGE HERE
+const char* password = "98761234"; // CHANGE HERE
 
 const char* websockets_server_host = "localhost"; //CHANGE HERE
 const uint16_t websockets_server_port = 8765; // OPTIONAL CHANGE
